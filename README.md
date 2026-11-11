@@ -372,23 +372,6 @@ patient_data: {"first_name": "John", "last_name": "Doe", "age": 35}
 | `/user/testchat` | `TextReportLanding` | ✅ | Upload text report |
 | `/user/chat/:reportId` | `ChatPage` | ✅ | AI chat per report |
 
----
-
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| **MD. Sifat Hossain** | Web Developer |
-| **Anannaya Sikder** | Project Manager |
-| **MD. Tanjirul Majumder** | AI Engineer |
-| **MD. Junaedul Islam Khan** | SQA |
-| **MD. Anamul Islam** | Software Engineer |
-
----
-
-## 📄 License
-
-This project is licensed under the terms found in the [LICENSE](./LICENSE) file.
 
 ---
 
